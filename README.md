@@ -1,5 +1,5 @@
 # REGISTER-CRUD
-Projeto inicial será um CRUD tendo as principais funções como criar, ler,atualizar e deletar. Principal ponto é o estudo da linguagem de PHP, HTML e JS juntamente com Bootstrap para a contrução do front-end
+Projeto inicial será um CRUD tendo as principais funções como criar, ler,atualizar e deletar dados de usuários como nome, email, data de nascimento e uma senha criptografada em md5. Principal ponto é estudar as linguagens como PHP, HTML e JS juntamente com Bootstrap para a contrução do front-end.
 
 # LINGUAGENS USADAS
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
