@@ -1,5 +1,6 @@
 <h1>Novo usuário</h1>
-<form action='?action-page' method='POST'>
+<form action='?page=salvar' method='POST'>
+    <input type="hidden" name="acao" value="cadastrar">
     <div class="mb-3">
         <label>Nome:</div>
         <input type = "text" name="nome" class="form-control">    
@@ -20,4 +21,4 @@
         <input type = "submit" class="btn btn-primary">    
         
     </div>
-<form>
+</form>
