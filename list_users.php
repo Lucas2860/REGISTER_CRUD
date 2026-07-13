@@ -23,7 +23,7 @@
             print "<td>".$row->email;
             print "<td>".$row->data_nasc; 
             print "<td>
-                    <button class='btn btn-success'>EDITAR</button>
+                    <button onclick=\"location.href='?page=editar&id=".$row->id."';\"class='btn btn-success'>EDITAR</button>
                     <button class='btn btn-danger'>EXLUIR</button>
                    </td>"; 
             print "</tr>";
